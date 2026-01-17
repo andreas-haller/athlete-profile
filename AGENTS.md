@@ -25,6 +25,9 @@ and their interaction.
 - Started running regularly at approximately **12 years old**
 - Joined a **running club at age 16**
 - Has competed regularly in running events since adolescence
+- At his peak, the athlete was well above average and competitive in stronger local and regional fields, occasionally near the sharp end, but less so in deeper, higher-tier regional competitions.
+- He was a strong regional-to-upper-club level middle-distance runner with excellent endurance, solid speed, and high competitive consistency, but not national elite.  
+- His profile was that of a strength and endurance based middle-distance runner rather than a speed-dominant type.
 
 ### Primary Running Focus (Historically)
 - Main competitive distance: **1500 m**
