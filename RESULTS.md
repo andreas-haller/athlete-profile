@@ -6,22 +6,17 @@ This file contains historical competition results and notable performances,
 grouped by calendar year. Times are taken from legacy best-performance
 documents and later updates. 
 
-**Note that this list is not complete.**
+**Note, this list is not complete.**
 
 ---
 
-## Recent Years
-
 TODO add more details.
 
-### Running
+## 2025
 
-- Return to 1500 m and other distances from 2024/2025 onward (results to be added)
-
-### CrossFit
-
-- CrossFit Open participation every year since 2013
-- Increasing number of CrossFit and team competitions from 2025 onward
+- 10k - **40:25 / 40:19min** (30.03.2025, Augsburg, 55. AOK Straßenlauf)
+- Halbmarathon (21,0975 km) – **1:34:39 / 1:34:27h** (13.04.2025, Augsburg, 39. SWA Straßenlauf)
+- 1500m - **4:51,59min** (06.07.2025, Wiesau, 2. Platz Bayerische Senioren)
 
 ---
 
