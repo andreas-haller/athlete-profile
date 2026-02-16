@@ -19,6 +19,7 @@
   - https://github.com/andreas-haller/athlete-profile (public, this repository)
   - https://github.com/andreas-haller/athlete-data (private)
 - While this repository should contain details about training, goals and history it **must not** expose any privacy relevant data like address, health topics, detailed body metrics etc.
+- **Health & injury details** (illness, sickness, acute conditions, diagnosed injuries) belong exclusively in `athlete-data/INJURIES.md`. In the training log here, reference reduced training periods neutrally (e.g. "Rest" or "Reduced training volume") without stating the reason.
 - Files:
   - SKILLS.md - check before making changes to the repository, **manually authored, do not touch**
   - CV.md - athletic background, **manually authored, do not touch**
