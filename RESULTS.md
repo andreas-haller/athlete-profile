@@ -12,6 +12,26 @@ documents and later updates.
 
 TODO add more details.
 
+## 2026
+
+### CrossFit / Functional Fitness
+
+- CF Team Comp (MF) — **Rise Athletics, Pfronten** (21.02.2026)
+  - WOD 1: 42 rep front squat @ 65 kg (max rep)
+  - WOD 2 "Synchronised Suffering": 13:02 (TC 15:00)
+  - WOD 3 "DT & Destroy": 17/16/16 burpees (E1:30 MOM)
+- CF Total (12 min) — 65 SP / 140 BS / 160 DL = **365 kg** (24.02.2026)
+- FBL 26.3 — AMRAP 20 min — **292 reps** (26.02.2026)
+- CF Open 26.1 — For time (TC 12:00) — **254 reps**, TB 10:47 (28.02.2026)
+
+### ATHX Games (07.02.2026)
+
+- Strict press 1×65 / Back squat 3×140 / Deadlift 5×150
+- 22 min AMRAP run+row: **5217 m**
+- Ski + Chipper: **16:49**
+
+---
+
 ## 2025
 
 - 10k - **40:25 / 40:19min** (30.03.2025, Augsburg, 55. AOK Straßenlauf)
@@ -145,4 +165,3 @@ TODO add more details.
 
 - 50 m – **8,74 s** (23.09.1995)
 - 1000 m – **4:05,42 min** (23.09.1995)
-
