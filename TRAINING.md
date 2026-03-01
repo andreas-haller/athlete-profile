@@ -22,6 +22,41 @@
 
 ---
 
+## Prehab / Rehab
+
+Prehab is a mandatory part of session planning. When scheduling training days, include time for the relevant prehab blocks — they are not optional extras.
+
+### Calf / Achilles — Daily (~10–12 min)
+
+Context: recurring calf/achilles issues, 2025 calf tear + inflamed achilles, current Feb–Mar 2026 calf flare-up with achilles insertion sensitivity.
+
+1. **Eccentric heel drops off a step** — 3×15 each leg, slow 3-sec lowering
+   - Straight knee (gastrocnemius)
+   - Bent knee ~20° (soleus — more relevant for achilles insertion)
+   - Start bodyweight, add load once easy (backpack, DB)
+2. **Isometric calf hold** — 3×30–45sec single leg, mid-range (wall lean or step). Good for pain modulation on sensitive days.
+3. **Single leg hops** — multi-directional, 2–3×/week. Progress via surface variation (towel, soft mat) rather than volume.
+4. **Soleus wall sit** — 3×30sec. Feet ~30cm from wall, knees well over toes, heels down. Loads soleus/achilles isometrically + ankle mobility.
+
+### Back — 3–4×/week
+
+Context: chronic desk-related lower back pain, significantly improved as of late Feb 2026. Maintain current protocol.
+
+1. **Figure 4 mobility + stretches** — focus on glutes and posterior thigh
+2. **Twists + cat cow** — spinal mobility
+3. **90/90 hip switches** — 2×10. Internal/external rotation + glute activation. Complements static stretching.
+
+### Shoulder — Ongoing
+
+- Regular shoulder prehab/rehab (existing routine)
+- Load awareness and exercise selection management
+
+### Knee — Ongoing
+
+- Existing prehab keeps knee pain-free — maintain consistency
+
+---
+
 ## Current Plan: 10k Race Build (Feb 16 – Mar 22)
 
 **Target race:** 10k on March 22  
