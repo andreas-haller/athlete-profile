@@ -20,6 +20,7 @@
   - https://github.com/andreas-haller/athlete-data (private)
 - While this repository should contain details about training, goals and history it **must not** expose any privacy relevant data like address, health topics, detailed body metrics etc.
 - **Health & injury details** (illness, sickness, acute conditions, diagnosed injuries) belong exclusively in the `athlete-data` repository. In the training log here, reference reduced training periods neutrally (e.g. "Rest" or "Reduced training volume") without stating the reason.
+- **Nutrition, supplementation & tolerance details** (ingestion protocols, timing, GI tolerance, meal composition) belong in the `athlete-data` repository. In the training log here, only reference the supplement/protocol and total dose (e.g. "16g sodium bicarbonate") with a pointer to athlete-data for details.
 - Files:
   - SKILLS.md - check before making changes to the repository, **manually authored, do not touch**
   - CV.md - athletic background, **manually authored, do not touch**
