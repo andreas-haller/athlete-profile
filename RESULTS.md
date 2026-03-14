@@ -24,6 +24,7 @@ TODO add more details.
 - FBL 26.3 — AMRAP 20 min — **292 reps** (26.02.2026)
 - CF Open 26.1 — For time (TC 12:00) — **254 reps**, TB 10:47 (28.02.2026)
 - CF Open 26.2 — For time (TC 15:00) — **CAP+12**, TB 9:54 (06.03.2026)
+- CF Open 26.3 — For time (TC 16:00) — **208 reps** (14.03.2026)
 
 ### ATHX Games (07.02.2026)
 
