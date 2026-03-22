@@ -14,6 +14,10 @@ TODO add more details.
 
 ## 2026
 
+### Running
+
+- 10k - **41:11 (device)** (22.03.2026) — ran through calf injury, not a fitness-limited result
+
 ### CrossFit / Functional Fitness
 
 - CF Team Comp (MF) — **Rise Athletics, Pfronten** (21.02.2026)
