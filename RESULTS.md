@@ -16,7 +16,7 @@ TODO add more details.
 
 ### Running
 
-- 10k - **41:11 (device)** (22.03.2026) — ran through calf injury, not a fitness-limited result
+- 10k - **41:18 / 41:08** (22.03.2026) — calf-limited, not fitness-limited
 
 ### CrossFit / Functional Fitness
 
