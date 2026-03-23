@@ -45,7 +45,7 @@ Unless stated otherwise, times are electronic and competition-legal.
 | Discipline | Reps and Weight | Date | Comment |
 |-----------|--------|------|----------|
 | Back Squat | 1@145kg | 10.2025 |  |
-| Bench Press | 1@95kg | 01.2026 |  |
+| Bench Press | 1@100kg | 03.2026 |  |
 | Deadlift | 1@160kg | 2025 |  |
 | Strict Press | 1@65kg | 01.2026 |  |
 | Front Squat | 1@105kg | 17.07.2017 |  |
