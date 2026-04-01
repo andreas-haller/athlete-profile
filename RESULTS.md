@@ -29,6 +29,11 @@ TODO add more details.
 - CF Open 26.1 — For time (TC 12:00) — **254 reps**, TB 10:47 (28.02.2026)
 - CF Open 26.2 — For time (TC 15:00) — **CAP+12**, TB 9:54 (06.03.2026)
 - CF Open 26.3 — For time (TC 16:00) — **208 reps** (14.03.2026)
+- CF Quarterfinals (Age Group M40) — (28-30.03.2026)
+  - WOD 4: **17:55** (TC 20:00) — Grace portion 4:12 PB
+  - WOD 1: **10:34** (TC 12:00)
+  - WOD 2: **CAP+8** (TC 15:00) — 40/40 bar MU completed, 72/80 DB hang squat cleans
+  - WOD 3: **CAP+4** (TC 12:00) — 6/10 DL @ 143 kg completed
 
 ### ATHX Games (07.02.2026)
 
