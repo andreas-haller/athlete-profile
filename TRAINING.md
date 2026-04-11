@@ -28,7 +28,7 @@ Prehab is a mandatory part of session planning. When scheduling training days, i
 
 ### Calf / Achilles — Daily (~10 min)
 
-Context: recurring calf/achilles issues, 2025 calf tear + inflamed achilles, current Feb-Mar 2026 calf flare-up with achilles insertion sensitivity. Symptom location migrates (medial soleus, achilles insertion, outer calf) indicating incompletely healed chain.
+Context: recurring calf/achilles issues, 2025 calf tear + inflamed achilles, current Feb-Mar 2026 calf flare-up with achilles insertion sensitivity. Symptom location migrates (medial soleus, achilles insertion, outer calf) indicating incompletely healed chain. Achilles shows mild sensitivity in lower heel-drop footwear (CF shoes). As of Apr 11: calf is duration-limited, not intensity-limited for short efforts. Tolerates 5km at 4:12/km clean, 9.35km at 4:50/km with tension building toward end.
 
 **Achilles-focused:**
 1. **Eccentric heel drops off a step** — 2x10 each leg, slow 3-sec lowering (reduced dose while calf is recovering)
@@ -42,11 +42,14 @@ Context: recurring calf/achilles issues, 2025 calf tear + inflamed achilles, cur
 4. **Wall sit with heels raised** — 3x30sec. Normal wall sit position, up on toes. Isometric soleus loading.
 
 **Maintenance:**
-5. **Single leg hops** — multi-directional, 2-3x/week. Progress via surface variation (towel, soft mat) rather than volume. On hold if calf is irritable.
+5. **Single leg hops** — multi-directional, 2-3x/week. Progress via surface variation (towel, soft mat) rather than volume.
+
+**Recovery:**
+6. **Singold cold water dips** — post-run when convenient. ~1-2 min legs submerged.
 
 ### Back — 3-4x/week
 
-Context: chronic desk-related lower back pain. Improved late Feb 2026, re-aggravated Mar 11 during C&J session. Maintain protocol consistently.
+Context: chronic desk-related lower back pain. Consistently triggered by prolonged sitting, not by training load. Symptom-free during training since mid-March 2026 (including 30 C&J @ 61kg, 80 DB hang squat cleans, 60 deadlifts to 143kg). Desk sitting is the consistent trigger.
 
 1. **Figure 4 mobility + stretches** — focus on glutes and posterior thigh
 2. **Twists + cat cow** — spinal mobility
@@ -63,80 +66,85 @@ Context: chronic desk-related lower back pain. Improved late Feb 2026, re-aggrav
 
 ---
 
-## Current Plan: Calf Recovery + HM Build (Mar 14 - Apr 19)
+## Current Plan: 1500m Track Season Build (Apr 12 – Jul 5)
 
-**Context:** Left calf/achilles injury ongoing since Feb 18. 10k race build (Feb 16 - Mar 22) derailed by calf. Sub-40 10k is not possible on Mar 22. Priority shifts to recovery and building toward the half marathon on Apr 19.
+**Target race:** Bayerische Masters-Meisterschaften, Aschaffenburg, July 3–5. M40 category, 1500m only. Meldeschluss June 23.
 
-**10k Mar 22:** DNS recommended. Cannot sustain pace beyond 4km at moderate effort. Racing risks further setback and losing the HM window.
+**2025 PB:** 4:51.59 (Wiesau, 2. Platz). All-time PB: 4:13.27 (2008).
 
-**HM Apr 19:** Tight but possible if graduated return goes cleanly. Sub-1:34 is off the table. Realistic target: 1:38-1:42 controlled effort, depending on how weeks 3-5 progress.
+**Starting point (Apr 11):** Calf duration-limited but improving steadily. Aerobic base strong (41:08 10k race Mar 22, calf-limited). No track work done yet this season. Blood donation Apr 8 — reduced O₂ capacity until ~Apr 22. CF Quarterfinals completed.
 
-**Key constraint:** Professional assessment (physio/sports medicine) strongly recommended. Four weeks of self-managed rehab has not resolved the issue. Symptom migration suggests the root cause is not being addressed.
+**Key training principle:** Andreas's primary 1500m weakness is sustaining pace over the duration of the race, not VO₂max ceiling. Session design favors longer individual reps (600m, 800m, 1000m) over more total reps at shorter distances.
 
-### Aerobic Preservation Strategy
+**HM Apr 19:** DNS — formally deprioritized. Season pivot to 1500m.
 
-While running is limited, maintain aerobic base via cross-training stacked after easy runs.
-
-**Run days (2-3x/week):**
-- Easy run at current tolerable load (6-8km, 5:45+/km, heel-strike)
-- Immediately after: 20-30min row (~2:00/500m) or bike (easy-moderate)
-- Total session: 50-70min aerobic work
-
-**Non-run days (1-2x/week):**
-- Standalone row or bike, 30-45min, moderate effort
-- Choose bike over row if back is irritable
-
-**Weekly target:** 4-5 hours total aerobic volume across all modalities.
-
-**CF:** Continue as normal. Open workouts as scheduled. No restrictions beyond existing calf/back awareness.
-
-### Graduated Return to Running
-
-All progression is contingent on calf response. If any step causes a setback, drop back one level and hold for another week.
+**CF:** Continues throughout. Reduce to 2x/week during Phase 3 (race-specific). Individual comp May 2, team comp ~May 24. Some weeks may shift emphasis toward CF over running — the plan accommodates this flexibility.
 
 ---
 
-### Phase 1: Maintain (Mar 14-22)
+### Phase 1: Calf Consolidation + Strides (Apr 12 – May 2, 3 weeks)
 
-- Easy runs 6-8km @ 5:45+/km, 2-3x/week
-- Cross-train after each run (row or bike, 20-30min)
-- Daily calf/achilles prehab
-- CF Open workouts as scheduled
-- Continue daily cooling + massage gun + light eccentrics
+**Goal:** Build run tolerance to consistent 3x/week. First test of calf under forefoot/sprint loading via strides.
 
----
+**Running — 3x/week:**
+- 2 runs ending with **6-8 strides** (80-100m at ~3:30-3:40/km pace, walk back recovery). Short enough that duration isn't a factor — this is the critical test of forefoot running on the calf.
+- 1 longer run building toward 12km at 5:00-5:15/km.
+- Blood donation recovery (first 10 days): keep conservative, expect everything to feel harder.
 
-### Phase 2: Introduce Moderate Effort (Mar 23-29)
+**CF:** Continue as normal, 2-3x/week. CF individual comp May 2 — treat as competition, adjust surrounding days.
 
-- One run with 5-10min @ 5:00-5:15/km inserted in the middle of an easy run
-- Remaining runs stay easy (5:45+)
-- Monitor calf response for 24-48h after the moderate pickup
-- If clean: proceed. If flares: hold at Phase 1 for another week.
+**Calf prehab:** Daily protocol. Increase eccentric heel drop volume if tolerated.
+
+**Decision gate:** Can the calf tolerate strides at 3:30-3:40/km without next-day flare-up? If yes → Phase 2. If no → hold Phase 1, reassess.
 
 ---
 
-### Phase 3: Extend Moderate Work (Mar 30 - Apr 5)
+### Phase 2: Speed Introduction (May 3 – May 23, 3 weeks)
 
-- One run with 2x10min @ 5:00/km, easy jog between
-- One run progressing toward 4:45/km for short segments
-- Total running volume: aim for 25-30km/week if tolerated
-- Begin reducing cross-training volume as running volume increases
+**Goal:** First track sessions. Short fast reps with full recovery. Test calf at race-relevant speeds.
 
----
+**Running — 3-4x/week:**
+- **1x track session:** Start with 6-8 x 200m at 38-42 sec (3:10-3:30/km pace), full 200m walk recovery. Progress to 4-6 x 300m. These are neuromuscular, not glycolytic — full recovery between reps.
+- **1x threshold/tempo run:** Continuous 15-20min at ~4:10-4:20/km (10k effort). Builds aerobic power underneath the 1500m.
+- **1-2x easy runs** (8-10km at 5:00+), strides after one of them.
 
-### Phase 4: Race-Specific (Apr 6-12)
+**CF:** Continue 2-3x/week. Team comp ~May 24 — adjust surrounding days. Avoid heavy leg sessions the day before/after track work.
 
-- First attempt at short intervals near 4:15-4:30/km (3-4min reps with recovery)
-- One longer run 12-15km with moderate effort in the second half
-- Assess: can the calf handle 60+ minutes of sustained moderate running?
-- This week determines HM participation and pace target
+**Decision gate:** Can the calf handle 200m repeats at 3:10-3:30/km on a track, forefoot, without escalation? If yes → Phase 3. If marginal → reduce rep length, increase recovery, extend Phase 2.
 
 ---
 
-### Phase 5: HM Race Week (Apr 13-19)
+### Phase 3: Race-Specific (May 24 – Jun 13, 3 weeks)
 
-- If Phase 4 was clean: race the HM at conservative effort (4:40-4:50/km, targeting 1:38-1:42)
-- If Phase 4 showed calf issues: DNS or run as training effort with strict bail-out rule
-- Mon/Tue: easy shakeout run, 5-6km
-- Wed-Fri: rest or very light movement
-- **Sat 19: Half Marathon**
+**Goal:** 1500m pace sustainability. Longer reps at race pace — targets the specific weakness of sustaining pace.
+
+**Running — 3-4x/week:**
+- **1x key session:** Longer reps at 1500m pace. Build across weeks: 3x600m → 3x800m → 2x1000m at target pace (~3:10-3:20/km). Recovery = rep time or slightly more.
+- **1x supporting session:** 4-6 x 400m at slightly faster than race pace (~72-76 sec). Sharpening and speed reserve.
+- **1-2x easy runs.**
+- Consider a prep race if there's a local 800m or 1500m meet.
+
+**CF:** Reduce to 2x/week. Track sessions take priority.
+
+---
+
+### Phase 4: Peak + Taper (Jun 14 – Jun 29, ~2 weeks)
+
+**Goal:** Absorb fitness, sharpen, arrive fresh.
+
+- Reduce volume by 30-40%, maintain intensity.
+- **Week 1:** One sharp session (3x400m at race pace), one easy run with strides, one easy run.
+- **Week 2:** One short sharp session (2x300m at race pace), easy shakeout runs only.
+- **Register by Jun 23** (Meldeschluss).
+- Last hard session 5-7 days before race.
+- CF: light only, no competition efforts.
+
+---
+
+### Race Week (Jun 30 – Jul 5)
+
+- Mon/Tue: easy shakeout 3-4km + strides
+- Wed: rest or very light mobility
+- Thu–Sat: race day (check schedule for M40 1500m timing)
+- **Bicarb:** standard 16g protocol, timed to race start
+- **Caffeine:** consider testing ~100mg in a training session before combining with bicarb on race day (untested lever)
