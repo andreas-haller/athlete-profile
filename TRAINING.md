@@ -66,63 +66,87 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 
 ---
 
-## Current Plan: 1500m Track Season Build (Apr 12 – Jul 5)
+## Race Calendar 2026 (Running + CF)
 
-**Target race:** Bayerische Masters-Meisterschaften, Aschaffenburg, July 3–5. M40 category, 1500m only. Meldeschluss June 23.
-
-**2025 PB:** 4:51.59 (Wiesau, 2. Platz). All-time PB: 4:13.27 (2008).
-
-**Starting point (Apr 11):** Calf duration-limited but improving steadily. Aerobic base strong (41:08 10k race Mar 22, calf-limited). No track work done yet this season. Blood donation Apr 8 — reduced O₂ capacity until ~Apr 22. CF Quarterfinals completed.
-
-**Key training principle:** Andreas's primary 1500m weakness is sustaining pace over the duration of the race, not VO₂max ceiling. Session design favors longer individual reps (600m, 800m, 1000m) over more total reps at shorter distances.
-
-**HM Apr 19:** DNS — formally deprioritized. Season pivot to 1500m.
-
-**CF:** Continues throughout. Reduce to 2x/week during Phase 3 (race-specific). Individual comp May 2, team comp ~May 24. Some weeks may shift emphasis toward CF over running — the plan accommodates this flexibility.
+| Date | Event | Priority |
+|------|--------|----------|
+| 02.05 | Bavarian Steel Games (CF individual, Steel/Rx) — ✅ done | A |
+| 24.05 | Fitness Bundesliga (FBL) CF comp — 3 WODs incl. squat snatch + OHS max | A |
+| 10.06 or 14.06 | 800m (tune-up) | B |
+| 24.06 | 1500m (tune-up race) | B |
+| 03–05.07 | **Bayerische Seniorenmeisterschaften**, M40 1500m — main goal | A |
+| Meldeschluss | 23.06 (register before) | — |
 
 ---
 
-### Phase 1: Calf Consolidation + Strides (Apr 12 – May 2, 3 weeks)
+## Current Plan: 1500m Track Season Build (Apr 12 – Jul 5)
 
-**Goal:** Build run tolerance to consistent 3x/week. First test of calf under forefoot/sprint loading via strides.
+**Target race:** Bayerische Masters-Meisterschaften, Aschaffenburg, July 3–5. M40 category, 1500m only.
 
-**Running — 3x/week:**
-- 2 runs ending with **6-8 strides** (80-100m at ~3:30-3:40/km pace, walk back recovery). Short enough that duration isn't a factor — this is the critical test of forefoot running on the calf.
-- 1 longer run building toward 12km at 5:00-5:15/km.
-- Blood donation recovery (first 10 days): keep conservative, expect everything to feel harder.
+**2025 PB:** 4:51.59 (Wiesau, 2. Platz). All-time PB: 4:13.27 (2008).
 
-**CF:** Continue as normal, 2-3x/week. CF individual comp May 2 — treat as competition, adjust surrounding days.
+**Starting point (Apr 11):** Calf duration-limited but improving steadily. Aerobic base strong (41:08 10k race Mar 22, calf-limited). No track work done yet this season.
 
-**Calf prehab:** Daily protocol. Increase eccentric heel drop volume if tolerated.
+**Key training principle:** Andreas's primary 1500m weakness is sustaining pace over the duration of the race, not VO₂max ceiling. Session design favors longer individual reps (600m, 800m, 1000m) over more total reps at shorter distances.
 
-**Decision gate:** Can the calf tolerate strides at 3:30-3:40/km without next-day flare-up? If yes → Phase 2. If no → hold Phase 1, reassess.
+**CF:** Continues throughout. Reduce to 2x/week during Phase 3 (race-specific). FBL May 24 (squat snatch + OHS max as one WOD). Some weeks may shift emphasis toward CF over running — the plan accommodates this flexibility.
+
+---
+
+### Phase 1: Calf Consolidation + Strides (Apr 12 – May 2) ✅ COMPLETE
+
+**Outcome:** Strides tolerated in racing shoes (Apr 16, 7 strides, achilles 1-2/10, calf clean). Treadmill tempo 4×5min @ 4:20/km (Apr 22). 13.56km road run @ 4:38/km avg (Apr 27, calf clean throughout). Phase 1 gate: passed. New symptom: ankle/shin soreness Apr 27 — monitoring.
 
 ---
 
 ### Phase 2: Speed Introduction (May 3 – May 23, 3 weeks)
 
-**Goal:** First track sessions. Short fast reps with full recovery. Test calf at race-relevant speeds.
+**Goal:** First track sessions. Short fast reps with full recovery. Test calf at race-relevant speeds. One snatch session/week for FBL.
 
 **Running — 3-4x/week:**
-- **1x track session:** Start with 6-8 x 200m at 38-42 sec (3:10-3:30/km pace), full 200m walk recovery. Progress to 4-6 x 300m. These are neuromuscular, not glycolytic — full recovery between reps.
-- **1x threshold/tempo run:** Continuous 15-20min at ~4:10-4:20/km (10k effort). Builds aerobic power underneath the 1500m.
-- **1-2x easy runs** (8-10km at 5:00+), strides after one of them.
+- **1x track session:** 6-8 × 200m at 38-42 sec (3:10-3:30/km pace), full 200m walk recovery. Progress to 4-6 × 300m in week 3.
+- **1x threshold/tempo run:** 20-25min continuous at ~4:10-4:20/km.
+- **1-2x easy runs** (8-10km @ 5:00+), strides after one of them.
 
-**CF:** Continue 2-3x/week. Team comp ~May 24 — adjust surrounding days. Avoid heavy leg sessions the day before/after track work.
+**CF:** 2-3x/week. FBL May 24 — taper surrounding days.
 
-**Decision gate:** Can the calf handle 200m repeats at 3:10-3:30/km on a track, forefoot, without escalation? If yes → Phase 3. If marginal → reduce rep length, increase recovery, extend Phase 2.
+**Snatch progression toward FBL May 24:**
+- **Wed May 7:** technical primer — singles to 60kg, no max attempt. Accessories: 3×3 OHS @ 50-60kg paused, 3×3 snatch balance, 3×3 snatch pulls @ 70kg. Goal: clean positions only.
+- **Wed May 14:** test session — build to 70-72.5kg with full recovery between attempts. 1-2 max attempts only.
+- **Wed May 21:** comp tune-up — light primer, 3-4 singles @ 55-60kg + position holds. No heavy attempts.
+- **Sat May 24:** FBL — squat snatch + OHS max.
+
+**Decision gate:** Can the calf handle 200m repeats at 3:10-3:30/km forefoot on a track without escalation? If yes → Phase 3. If marginal → reduce rep length, increase recovery, extend Phase 2.
 
 ---
 
-### Phase 3: Race-Specific (May 24 – Jun 13, 3 weeks)
+### Week of May 4–10 (Phase 2, Week 1)
+
+**Context:** Post-Bavarian Steel Games comp (May 2). Full body soreness. First week back. First track session since Feb 18 calf onset.
+
+| Day | Session |
+|-----|---------|
+| Mon May 4 | **Rest.** Mobility + calf prehab only. |
+| Tue May 5 | **Easy run 6-8km @ 5:00-5:15/km + 4-6 strides** (80m @ ~3:30/km, walk-back recovery). Bail on strides if achilles is grumpy. |
+| Wed May 6 (or Thu) | **Snatch session #1 (technical).** Full warm-up. Build in singles to 60kg, well below ceiling. 3×3 OHS paused, 3×3 snatch balance, 3×3 snatch pulls @ 70kg. Clean reps only — no max testing. |
+| Thu May 7 | **Easy 4-5km or rest.** Read the legs. |
+| Fri May 8 | **Track: 6 × 200m @ 38-40 sec, 200m walk recovery.** Warm-up 15min easy + drills + 4×100m strides. Cool-down 10min. Stop at 4 reps if calf flares. Don't add reps even if it feels good. |
+| Sat May 9 | **Easy 6-8km @ 5:00/km.** Recovery aerobic. |
+| Sun May 10 | **Long aerobic 60-75min, 12-14km @ 5:00-5:15/km.** Calf is the governor — pace adjustable. |
+
+**Volume target:** ~30-32km running, 1 snatch session, 1 quality (track).
+
+---
+
+### Phase 3: Race-Specific (May 25 – Jun 13, 3 weeks)
 
 **Goal:** 1500m pace sustainability. Longer reps at race pace — targets the specific weakness of sustaining pace.
 
 **Running — 3-4x/week:**
-- **1x key session:** Longer reps at 1500m pace. Build across weeks: 3x600m → 3x800m → 2x1000m at target pace (~3:10-3:20/km). Recovery = rep time or slightly more.
-- **1x supporting session:** 4-6 x 400m at slightly faster than race pace (~72-76 sec). Sharpening and speed reserve.
+- **1x key session:** Longer reps at 1500m pace. Build across weeks: 3×600m → 3×800m → 2×1000m at target pace (~3:10-3:20/km). Recovery = rep time or slightly more.
+- **1x supporting session:** 4-6 × 400m at slightly faster than race pace (~72-76 sec). Sharpening and speed reserve.
 - **1-2x easy runs.**
-- Consider a prep race if there's a local 800m or 1500m meet.
+- **800m tune-up race Jun 10 or 14** — first competitive effort, read fitness and calf response.
 
 **CF:** Reduce to 2x/week. Track sessions take priority.
 
@@ -133,10 +157,11 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 **Goal:** Absorb fitness, sharpen, arrive fresh.
 
 - Reduce volume by 30-40%, maintain intensity.
-- **Week 1:** One sharp session (3x400m at race pace), one easy run with strides, one easy run.
-- **Week 2:** One short sharp session (2x300m at race pace), easy shakeout runs only.
+- **Week 1:** One sharp session (3×400m at race pace), one easy run with strides, one easy run.
+- **Week 2:** One short sharp session (2×300m at race pace), easy shakeout runs only.
+- **1500m tune-up race Jun 24** — last hard competitive effort before the Bayerische SM.
 - **Register by Jun 23** (Meldeschluss).
-- Last hard session 5-7 days before race.
+- Last hard session 5-7 days before Jul 3-5 race.
 - CF: light only, no competition efforts.
 
 ---
