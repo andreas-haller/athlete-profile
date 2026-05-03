@@ -34,6 +34,11 @@ TODO add more details.
   - WOD 1: **10:34** (TC 12:00)
   - WOD 2: **CAP+8** (TC 15:00) — 40/40 bar MU completed, 72/80 DB hang squat cleans
   - WOD 3: **CAP+4** (TC 12:00) — 6/10 DL @ 143 kg completed
+- Bavarian Steel Games — **CrossFit Rosenheim**, Steel/Rx division (02.05.2026)
+  - **Shared 9th / 12**
+  - WOD 1 "Steel": Chipper 9:45 (TC 10:00) + Hang C&J 90 kg (missed 100 kg)
+  - WOD 2 "Steel": **116 reps** (TC 10:00) — bike erg / DB squat snatch / T&G rope climb
+  - WOD 3 "Steel": **6:46** (TC 7:00) — wallballs / DL / lateral burpees / HSW
 
 ### ATHX Games (07.02.2026)
 
