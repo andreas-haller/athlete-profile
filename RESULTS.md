@@ -17,7 +17,7 @@ TODO add more details.
 ### Running
 
 - 10k - **41:18 / 41:08** (22.03.2026) — calf-limited, not fitness-limited
-- 800m - **2:18,31** (14.06.2026, tune-up) — all-out, 11 days post blood donation; splits 67.6 / 72.4
+- 800m - **2:18,31** (14.06.2026, tune-up) — all-out, 11 days post blood donation; splits 67.6 / 70.7
 
 ### CrossFit / Functional Fitness
 
