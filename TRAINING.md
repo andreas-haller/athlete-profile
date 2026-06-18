@@ -72,8 +72,8 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 |------|--------|----------|
 | 02.05 | Bavarian Steel Games (CF individual, Steel/Rx) — ✅ done | A |
 | 24.05 | Fitness Bundesliga (FBL) CF comp — 3 WODs incl. squat snatch + OHS max — ✅ done | A |
-| 14.06 | 800m (tune-up) | B |
-| 24.06 | 1500m (tune-up race) | B |
+| 14.06 | 800m (tune-up) — ✅ done, 2:18,31 all-out | B |
+| 24.06 | 1500m (tune-up race / competition) | B |
 | 03–05.07 | **Bayerische Seniorenmeisterschaften**, M40 1500m — main goal | A |
 | Meldeschluss | 23.06 (register before) | — |
 
@@ -84,6 +84,8 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 **Target race:** Bayerische Masters-Meisterschaften, Aschaffenburg, July 3–5. M40 category, 1500m only.
 
 **2025 PB:** 4:51.59 (Wiesau, 2. Platz). All-time PB: 4:13.27 (2008).
+
+**2026 realistic target:** **~4:45, goal at or just under.** Even pace = **76.0s/lap (3:10/km)**. Rationale in Race Execution below — the personal 800→1500 fade is steeper than textbook, so race pace is set at 76/lap, NOT the 3:06/km used to seed the earlier phases (that figure assumed a sub-4:40 ceiling the current base does not support).
 
 **Starting point (Apr 11):** Calf duration-limited but improving steadily. Aerobic base strong (41:08 10k race Mar 22, calf-limited). No track work done yet this season.
 
@@ -138,15 +140,15 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 
 | Day | Session |
 |-----|---------|
-| Mon May 26 | **Rest.** |
-| Tue May 27 | **Rest.** |
-| Wed May 28 | **Upper body / CF — easy.** No lower body load. |
-| Thu May 29 | **Threshold run: 2 × 15 min @ ~4:05–4:10/km, 3 min jog recovery.** Road. Warm-up 10 min easy, cool-down 10 min. This is the sharpening session — clean execution, stop on time regardless of feel. |
-| Fri May 30 | **Easy run 45–60 min @ 5:00–5:10/km, HR < 135.** Flush legs. |
-| Sat May 31 | **Rest or bouldering** — no lower body load. |
-| Sun Jun 1 | **Long aerobic run 14–16 km @ 4:50–5:00/km, HR controlled.** Last meaningful aerobic volume before donation. Most important session of the week. |
-| Mon Jun 2 | **Easy 30–40 min or rest** depending on Sunday. |
-| Tue Jun 3 | **Blood donation.** |
+| Tue May 26 | **Rest.** |
+| Wed May 27 | **Rest.** |
+| Thu May 28 | **Upper body / CF — easy.** No lower body load. |
+| Fri May 29 | **Threshold run: 2 × 15 min @ ~4:05–4:10/km, 3 min jog recovery.** Road. Warm-up 10 min easy, cool-down 10 min. This is the sharpening session — clean execution, stop on time regardless of feel. |
+| Sat May 30 | **Easy run 45–60 min @ 5:00–5:10/km, HR < 135.** Flush legs. |
+| Sun May 31 | **Rest or bouldering** — no lower body load. |
+| Mon Jun 1 | **Long aerobic run 14–16 km @ 4:50–5:00/km, HR controlled.** Last meaningful aerobic volume before donation. Most important session of the week. |
+| Tue Jun 2 | **Easy 30–40 min or rest** depending on Sunday. |
+| Wed Jun 3 | **Blood donation.** |
 
 **Notes:**
 - Thursday 2 × 15 min is conservative vs. the 2 × 18 min done in Phase 2 — intentional. Sharpening existing fitness, not building.
@@ -155,44 +157,47 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 
 ---
 
-### Phase 3b: Post-Donation Recovery + Shakeout (Jun 4 – Jun 13)
+### Phase 3b: Post-Donation Recovery + Shakeout (Jun 4 – Jun 14)
 
-**Context:** Blood donation June 3. Expect HR 10–15 bpm elevated for 7–14 days, reduced VO₂ capacity, higher perceived effort at all paces. The 800m race on June 14 is 11 days post-donation — treat it as a race shakeout only, not a fitness test.
+**Context:** Blood donation June 3. Expect HR 10–15 bpm elevated for 7–14 days, reduced VO₂ capacity, higher perceived effort at all paces.
 
 **Rules for this block:**
 - No quality sessions for 5–7 days post-donation (Jun 4–9). Easy running only, HR-controlled, no pace targets.
 - First quality session no earlier than Jun 10 — and only if HR has returned to within ~5 bpm of normal at easy pace.
-- If HR is still elevated Jun 10+, push quality to Jun 11–12 or skip entirely before the 800m.
 
 | Day | Session |
 |-----|---------|
-| Wed Jun 4 | **Rest or very easy walk/mobility only.** |
-| Thu Jun 5 | **Easy 30–40 min @ RPE 4, HR-capped — stop if HR > 145 at any easy pace.** |
-| Fri Jun 6 | **Easy 40 min, same HR rules.** |
-| Sat Jun 7 | **Rest or easy 30 min.** |
-| Sun Jun 8 | **Easy 50–60 min @ 5:10–5:20/km.** First longer run post-donation — read the HR carefully. |
-| Mon Jun 9 | **Rest.** |
-| Tue Jun 10 | **If HR normal: 4–6 × 300m @ 3:10–3:15/km, full walk recovery. If HR still elevated: easy 30 min only.** |
-| Wed Jun 11 | **Easy 30–40 min or rest.** |
-| Thu Jun 12 | **Easy shakeout 20 min + 4 strides.** |
-| Fri Jun 13 | **Rest.** |
-| Sat Jun 14 | **800m race.** Objective: get race nerves out, feel what 2 laps at effort feels like. Do not chase a time — result is not a fitness indicator at 11 days post-donation. |
+| Thu Jun 4 | **Rest or very easy walk/mobility only.** |
+| Fri Jun 5 | **Easy 30–40 min @ RPE 4, HR-capped — stop if HR > 145 at any easy pace.** |
+| Sat Jun 6 | **Easy 40 min, same HR rules.** |
+| Sun Jun 7 | **Rest or easy 30 min.** |
+| Mon Jun 8 | **Easy 50–60 min @ 5:10–5:20/km.** First longer run post-donation — read the HR carefully. |
+| Tue Jun 9 | **Rest.** |
+| Wed Jun 10 | **If HR normal: 4–6 × 300m @ 3:10–3:15/km, full walk recovery. If HR still elevated: easy 30 min only.** |
+| Thu Jun 11 | **Easy 30–40 min or rest.** |
+| Fri Jun 12 | **Easy shakeout 20 min + 4 strides.** |
+| Sat Jun 13 | **Rest.** |
+| Sun Jun 14 | **800m race.** |
+
+**Update (this block ran differently — see training log):** post-donation easy running went to plan; HR normalised by ~Jun 17. The **800m on Jun 14 was run all-out, not as a shakeout** — official **2:18,31** (RESULTS.md). It was a valid fitness + pacing data point: splits **67.6 / 72.4** (+4.8s), clear last-100 fade. Caffeine + bicarb co-tested (borderline GI — NUTRITION.md).
 
 ---
 
 ### Phase 3c: Race-Specific Build (Jun 15 – Jun 21)
 
-**Context:** Post-800m, ~2.5 weeks to the July A-race. Most important training week of the season. Longer reps at 1500m pace — the specific weakness is sustaining pace, not VO₂max ceiling.
+**Original intent:** longer reps at 1500m pace (3 × 600m, 5 × 400m) — the specific weakness is sustaining pace.
 
-| Day | Session |
+**Update (superseded — see training log Jun 15–18):** run as an **achilles-recovery + general-conditioning week** instead (strict press + core Jun 15, CF Hero WOD Jun 16, easy aerobic Jun 17, threshold 4×~1200m @ 4:06/km Jun 18). The tendon took priority over race-pace specificity. Consequence: the only race-pace running in the whole block remains the Jun 2 track session — so the **Jun 24 1500m competition is now the sole race-pace rehearsal** before the A-race.
+
+| Day | Session (original plan) |
 |-----|---------|
-| Sun Jun 15 | **Rest or easy 30 min.** Race recovery. |
-| Mon Jun 16 | **Easy 40–50 min.** |
-| Tue Jun 17 | **Key session: 3 × 600m @ 3:06–3:10/km, 4 min jog recovery.** Road or track. First true race-pace rep session. |
-| Wed Jun 18 | **Easy 40 min.** |
-| Thu Jun 19 | **Supporting session: 5 × 400m @ ~72–74 sec (3:00–3:05/km), 3 min recovery.** Slightly faster than race pace — speed reserve. |
-| Fri Jun 20 | **Rest.** |
-| Sat Jun 21 | **Easy 50–60 min @ 5:00/km.** |
+| Mon Jun 15 | Rest or easy 30 min. |
+| Tue Jun 16 | Easy 40–50 min. |
+| Wed Jun 17 | Key session: 3 × 600m @ 3:06–3:10/km, 4 min jog recovery. |
+| Thu Jun 18 | Easy 40 min. |
+| Fri Jun 19 | Supporting session: 5 × 400m @ ~72–74 sec, 3 min recovery. |
+| Sat Jun 20 | Rest. |
+| Sun Jun 21 | Easy 50–60 min @ 5:00/km. |
 
 ---
 
@@ -202,32 +207,34 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 
 | Day | Session |
 |-----|---------|
-| Sun Jun 22 | **Easy 50 min.** |
-| Mon Jun 23 | **Register for Bayerische SM (Meldeschluss Jun 23).** Easy 30 min or rest. |
-| Tue Jun 24 | **1500m tune-up race.** Target: controlled first 800m, push final 700m. Fitness indicator for July. |
-| Wed Jun 25 | **Rest.** |
-| Thu Jun 26 | **Last quality session: 3 × 400m @ race pace (72–74 sec), full 4 min recovery.** Short, sharp, done. |
-| Fri Jun 27 | **Easy 30 min + 4 strides.** |
-| Sat Jun 28 | **Rest.** |
-| Sun Jun 29 | **Easy shakeout 20–25 min + 4 strides.** |
-| Mon Jun 30 | **Rest.** |
-| Tue Jul 1 | **Easy shakeout 15–20 min + 3 strides.** |
-| Wed Jul 2 | **Rest or very easy 15 min jog.** |
+| Mon Jun 22 | **Easy 50 min.** |
+| Tue Jun 23 | **Register for Bayerische SM (Meldeschluss Jun 23).** Easy 30 min or rest. |
+| Wed Jun 24 | **1500m — competition (B race).** Race-pace exposure + race practice. Execute **even ~76/lap; do NOT bank time early.** Read the achilles afterwards — it decides whether the Fri sharpener happens or it's straight into taper. |
+| Thu Jun 25 | **Rest.** |
+| Fri Jun 26 | **Last quality (only if achilles clean): 3 × 400m @ 72–74 sec, full 4 min recovery.** Speed-reserve (faster than ~76 race pace), short and sharp. Skip entirely if Jun 24 left the tendon reactive. |
+| Sat Jun 27 | **Easy 30 min + 4 strides.** |
+| Sun Jun 28 | **Rest.** |
+| Mon Jun 29 | **Easy shakeout 20–25 min + 4 strides.** |
+| Tue Jun 30 | **Rest.** |
+| Wed Jul 1 | **Easy shakeout 15–20 min + 3 strides.** |
+| Thu Jul 2 | **Rest or very easy 15 min jog.** |
 
 ---
 
 ### Race Week (Jul 3–5) — Bayerische Seniorenmeisterschaften, M40 1500m
 
 - **Check M40 1500m schedule** — confirm race day/time as soon as available.
-- **Bicarb:** 15g total, Option B split. Morning load 12g (3 × 4g, ~3h before race), 3g top-up ~75 min before race.
-- **Caffeine:** consider 100mg ~45 min before race — test once in a training session first before combining with bicarb on race day.
+- **Bicarb:** plan was 15g Option B (12g morning load, 3 × 4g ~3h pre-race; 3g top-up ~75 min pre). **Reconsider:** the reduced 12+3 split gave borderline GI on May 2 *and* before the Jun 14 800m, whereas **16g (4×4g)** has been clean across 6 events. Default to **16g standard** unless supply-constrained. See athlete-data/NUTRITION.md.
+- **Caffeine:** ~100mg co-tested with bicarb before the Jun 14 800m — tolerance "on the edge but OK". Determine whether the edge was GI or caffeine before committing for Jul 3; re-test the exact intended protocol at the Jun 24 competition, not on race day.
 - **Warm-up:** 15–20 min easy jog + drills + 3–4 × 100m strides. Last stride ~8 min before gun.
 
-**Race execution target (sub-4:40):**
-- 400m splits: ~70–71 / 71–72 / 72–73 / 65–67 (kick)
-- Don't go out at 68 — the weakness is sustaining pace, not starting. Controlled first 400m is non-negotiable.
+**Race execution target (~4:45, goal at or just under):**
+- **Even 400m splits: ~75–76 / 76 / 76–77 / hold or modest kick.** Even pace at 76.0/lap = 4:44.0; 76.5/lap = 4:46.0.
+- **Rationale — personal fade is steep.** Prime PBs 2:04,30 (800m, 2010) and 4:13,27 (1500m, 2008) imply a personal Riegel exponent ≈ 1.13–1.15 (vs ~1.06 textbook). Applied to the current 2:18,31 → ~4:41–4:45, and only with even pacing; with less endurance base than prime, plan for the slow end.
+- **The Jun 14 800m proves the point:** 1st 400 **67.6** / 2nd 400 **72.4** (+4.8s), clear last-100 fade. The limiter shows up by 400m even in an 800. In a 1500, a 70–72 opening lap is a guaranteed blow-up.
+- **Do not bank time early.** Run 76s, protect the third lap (where the race is decided), and let residual speed (ample — 2:18 800m) be the kick. Controlled first 400m is non-negotiable.
 
 **Blood donation impact summary:**
-- Jun 14 800m: 11 days post-donation — not a fitness indicator, race shakeout only.
-- Jun 24 1500m: 21 days post-donation — borderional, treat as directional.
+- Jun 14 800m: 11 days post-donation — run **all-out**, 2:18,31. Valid fitness/pacing data despite compromised blood volume.
+- Jun 24 1500m: 21 days post-donation — **competition**; primary fitness + pacing rehearsal and the achilles gate for taper. Time still partly directional (donation effect may linger early on).
 - Jul 3/4 1500m: ~30 days post-donation — should be fully recovered. This is the one that counts.
