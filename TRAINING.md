@@ -179,7 +179,7 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 | Sat Jun 13 | **Rest.** |
 | Sun Jun 14 | **800m race.** |
 
-**Update (this block ran differently — see training log):** post-donation easy running went to plan; HR normalised by ~Jun 17. The **800m on Jun 14 was run all-out, not as a shakeout** — official **2:18,31** (RESULTS.md). It was a valid fitness + pacing data point: splits **67.6 / 72.4** (+4.8s), clear last-100 fade. Caffeine + bicarb co-tested (borderline GI — NUTRITION.md).
+**Update (this block ran differently — see training log):** post-donation easy running went to plan; HR normalised by ~Jun 17. The **800m on Jun 14 was run all-out, not as a shakeout** — official **2:18,31** (RESULTS.md). Valid fitness + pacing data: lap split **67.6 / 70.7** (+3.1s); the back half held ~71/100m (device tail was inflated by a late watch stop). Caffeine + bicarb co-tested (borderline GI — NUTRITION.md).
 
 ---
 
@@ -231,7 +231,7 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 **Race execution target (~4:45, goal at or just under):**
 - **Even 400m splits: ~75–76 / 76 / 76–77 / hold or modest kick.** Even pace at 76.0/lap = 4:44.0; 76.5/lap = 4:46.0.
 - **Rationale — personal fade is steep.** Prime PBs 2:04,30 (800m, 2010) and 4:13,27 (1500m, 2008) imply a personal Riegel exponent ≈ 1.13–1.15 (vs ~1.06 textbook). Applied to the current 2:18,31 → ~4:41–4:45, and only with even pacing; with less endurance base than prime, plan for the slow end.
-- **The Jun 14 800m proves the point:** 1st 400 **67.6** / 2nd 400 **72.4** (+4.8s), clear last-100 fade. The limiter shows up by 400m even in an 800. In a 1500, a 70–72 opening lap is a guaranteed blow-up.
+- **The Jun 14 800m:** 1st 400 **67.6** / 2nd 400 **70.7** (+3.1s); the back half held ~71/100m once the late-stop tail is removed. A controlled-fast opening then a steady hold — encouraging. But the opening lap was ~9s/lap faster than 1500 race pace, so in the 1500 a 70–72 first lap would be a blow-up: open ~76 and let the hold do the work.
 - **Do not bank time early.** Run 76s, protect the third lap (where the race is decided), and let residual speed (ample — 2:18 800m) be the kick. Controlled first 400m is non-negotiable.
 
 **Blood donation impact summary:**
