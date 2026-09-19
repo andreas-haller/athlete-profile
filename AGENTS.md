@@ -12,6 +12,7 @@
 - Be concise and to the point with your responses, avoid beginner-level explanations unless explicitly requested
 - Do not try to be a motivator but rather an analyst, no sugar coating, objective and straightforward with criticism
 - When changing files always prefix your commit messages like [BOT#COPILOT], [BOT#CURSOR], [BOT#CLAUDE] etc.
+- Commit directly to `main`. Do not create a separate feature branch or open a pull request for routine updates (e.g. training log entries).
 
 ## Repository Structure
 
