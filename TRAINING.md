@@ -79,7 +79,39 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 
 ---
 
-## Current Plan: 1500m Track Season Build (Apr 12 – Jul 5)
+## Current Plan: Off-Season Base Phase (Oct 2026 → ~Feb 2027)
+
+**Goal:** build aerobic base and lower-leg durability for a faster 1500m in summer 2027, while CrossFit continues as a co-equal goal. 2026 reference: 1500m SB 4:47.64 (Jul 5), 800m 2:18.31.
+
+**Principles:**
+- **Most running genuinely easy** (conversational). Grow frequency and duration, not intensity. Avoid the "grey zone" — easy days must stay easy.
+- **Max two hard conditioning stimuli per week** on top of strength: one threshold run + one high-intensity (VO₂-type) slot. **CrossFit metcons count toward the high-intensity slot** — exactly one truly hard metcon per week; other classes technique/strength-biased or scaled to moderate.
+- **High-intensity slot: prefer low-impact (row/bike-heavy) formats over jump-heavy ones** (burpees, box jumps) while the lower-leg chain is reactive — see athlete-data.
+- **Long run progresses by duration** (~10%/week max), mostly easy, **with fueling + hydration practice**.
+- **Threshold progresses by volume or density, not pace** (add a rep, or shorten recovery), as long as reps stay on target.
+- **Intensity control via pace + RPE/breathing, not HR**, for efforts under ~20 min — HR underreads there (details in athlete-data/PHYSIOLOGY.md). HR-based load scores (e.g. Strava relative effort) are not used for intervals/races.
+- **Heavy strength 2x/week**, sequenced away from key runs — not the day before threshold or the long run.
+
+**Weekly template (high level):**
+
+| Count | Session | Notes |
+|-------|---------|-------|
+| 1 | Threshold run | e.g. 6 × 6 min @ ~4:05–4:10/km, 90 s jog. Progress: 7 × 6 min, or 60 s recovery. |
+| 1 | High-intensity / VO₂ | One hard CF metcon (row-heavy preferred). The only "redline" session of the week. |
+| 1 | Long run | 75–110 min easy, fueled. Progressive in duration. |
+| 2–3 | Easy runs | 45–60 min conversational; strides after one of them. |
+| 2 | Strength | Squat / deadlift / bench / press. Not the day before threshold or long run. |
+| 1–2 | Rest / mobility | Prehab blocks above are mandatory regardless. |
+
+**Progression into spring (~Mar 2027 onward):** move the high-intensity slot from CF metcons to **running-specific VO₂ / race-pace work** (e.g. 5 × 1000m, 6 × 800m, later 600m/400m reps at 1500m pace). The established 1500m weakness is sustaining pace over the race distance, so longer reps take priority over more short ones.
+
+**Open items:**
+- Chest-strap HR verification on a hard session (sensor reliability at high intensity).
+- Fueled long-run re-test to get a clean aerobic decoupling value (Sep 24 value was confounded by no fueling).
+
+---
+
+## Past Plan: 1500m Track Season Build (Apr 12 – Jul 5) — completed (SB 4:47.64 on Jul 5)
 
 **Target race:** Bayerische Masters-Meisterschaften, Aschaffenburg, July 3–5. M40 category, 1500m only.
 
