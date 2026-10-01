@@ -95,6 +95,11 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 | 0–1 | Bench or overhead press strength session |
 | 0–2 | Rest days |
 
+**Weekly minimums:**
+- At least **5 sessions** per week.
+- At least **2 quality sessions** per week (threshold run, long run, CrossFit metcon or heavy leg strength).
+- Aim to go into the core sessions of the week rested — not always possible, so some quality sessions will be done on accumulated fatigue.
+
 **Progression into spring (~Mar 2027 onward):** shift toward running-specific VO₂ / race-pace work (e.g. 5 × 1000m, 6 × 800m, later 600m/400m reps at 1500m pace). The established 1500m weakness is sustaining pace over the race distance, so longer reps take priority over more short ones.
 
 **Open items:**
