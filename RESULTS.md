@@ -21,8 +21,8 @@ TODO add more details.
 - 10k - **41:18 / 41:08** (22.03.2026) — calf-limited, not fitness-limited
 - 800m - **2:18,31** (14.06.2026, tune-up) — all-out, 11 days post blood donation; splits 67.6 / 70.7
 - Winterlaufserie Augsburg 2026/27 (Western Woods, hilly cross/forest course)
-  - Lauf I (~9.0 km, ~121 m elevation) - **39:15** (07.11.2026) — conservative start, heavy legs; 2025: 40:52 (Strava) → −1:37
-  - Lauf II (9.9 km, ~155 m elevation) - **41:23** (14.11.2026) — not a full sell-out, strong finish; 2025: 44:10 (Strava) → −2:47
+  - Lauf I (~9.0 km, ~121 m elevation) - **39:15** (07.11.2026) — conservative start, heavy legs; vs 2025 on Strava: 40:52 → 39:20 (−1:32)
+  - Lauf II (9.9 km, ~155 m elevation) - **41:23** (14.11.2026) — not a full sell-out, strong finish; vs 2025 on Strava: 44:10 → 41:27 (−2:43)
 
 ### CrossFit / Functional Fitness
 
