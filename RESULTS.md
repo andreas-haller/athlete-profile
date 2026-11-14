@@ -20,6 +20,9 @@ TODO add more details.
   - **1st place M40** — awarded the official "Wimpel" (pennant) for the age-group title. Note: the formal qualifying standard for the title was ~sub-4:38 (exact figure uncertain); the placing was given due to a timing mix-up, so the title is unofficial in the strict sense.
 - 10k - **41:18 / 41:08** (22.03.2026) — calf-limited, not fitness-limited
 - 800m - **2:18,31** (14.06.2026, tune-up) — all-out, 11 days post blood donation; splits 67.6 / 70.7
+- Winterlaufserie Augsburg 2026/27 (Western Woods, hilly cross/forest course)
+  - Lauf I (~9.0 km, ~121 m elevation) - **39:15** (07.11.2026) — conservative start, heavy legs; 2025: 40:52 (Strava) → −1:37
+  - Lauf II (9.9 km, ~155 m elevation) - **41:23** (14.11.2026) — not a full sell-out, strong finish; 2025: 44:10 (Strava) → −2:47
 
 ### CrossFit / Functional Fitness
 
@@ -57,6 +60,9 @@ TODO add more details.
 - 10k - **40:25 / 40:19min** (30.03.2025, Augsburg, 55. AOK Strassenlauf)
 - Halbmarathon (21,0975 km) - **1:34:39 / 1:34:27h** (13.04.2025, Augsburg, 39. SWA Strassenlauf)
 - 1500m - **4:51,59min** (06.07.2025, Wiesau, 2. Platz Bayerische Senioren)
+- Winterlaufserie Augsburg 2025/26 (Western Woods) — times from Strava, official times not recorded
+  - Lauf I (~9.0 km) - **40:52** (08.11.2025)
+  - Lauf II (9.9 km) - **44:10** (15.11.2025)
 
 ---
 
