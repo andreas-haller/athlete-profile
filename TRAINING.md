@@ -76,6 +76,11 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 | 24.06 | 1500m (tune-up race / competition) | B |
 | 03–05.07 | **Bayerische Seniorenmeisterschaften**, M40 1500m — main goal | A |
 | Meldeschluss | 23.06 (register before) | — |
+| 07.11 | Winterlaufserie I (~9.0 km, Western Woods) — ✅ done, 39:15 | C |
+| 14.11 | Winterlaufserie II (9.9 km) — ✅ done, 41:23 | C |
+| 05.12 | Winterlaufserie III | B |
+| 15.12 | **VO₂max + lactate lab test** | A (test) |
+| 31.12 | Silvesterlauf | B |
 
 ---
 
@@ -102,9 +107,24 @@ Context: chronic desk-related lower back pain. Consistently triggered by prolong
 
 **Progression into spring (~Mar 2027 onward):** shift toward running-specific VO₂ / race-pace work (e.g. 5 × 1000m, 6 × 800m, later 600m/400m reps at 1500m pace). The established 1500m weakness is sustaining pace over the race distance, so longer reps take priority over more short ones.
 
+**Current block: Nov 16 → Dec 15 (race III + lab test)**
+
+| Week | Focus |
+|------|-------|
+| Nov 16–22 | Long run done (21.2 km, Nov 16). Threshold run (Thu at the earliest, with strap). Leg strength: box squats ~60% as the knee allows. Upper body: press towards 67.5, bench 4 × 3 @ 90, 2× HSPU work per week (goal: 15 unbroken). |
+| Nov 23–29 | Threshold run + long run (~20 km @ ~5:00/km, fueled, strap — clean decoupling re-test on fresh legs). Leg strength building back towards heavy triples if knee is quiet. |
+| Nov 30 – Dec 5 | Race week: heavy legs at the latest Mon (5 days before), no threshold run, Fri rest/shakeout, **Winterlaufserie III (Sat)**. |
+| Dec 6–15 | Easy/moderate after the race, one threshold session mid-week (~Dec 9), last quality 3–4 days before the test, no heavy legs Dec 13–15, **lab test Dec 15**. |
+
+Rules for the block:
+- No heavy/high-volume squats within 4 days of a race or 2–3 days before a long run (quad fatigue → cramp tendency, see athlete-data).
+- Quad-tendon rehab: step-downs / slow eccentrics at low load before returning to heavy squats; no downhill reps until the knee is quiet.
+- Long runs: build regularity (every 1–2 weeks, 18–22 km), easier pace (~5:00/km), cadence slightly up (~165–170 spm), Cloudmonster Hyper for long runs.
+
 **Open items:**
-- Chest-strap HR verification on a hard session (sensor reliability at high intensity — see athlete-data/PHYSIOLOGY.md).
-- Fueled long-run re-test to get a clean aerobic decoupling value (Sep 24 value was confounded by no fueling).
+- ~~Chest-strap HR verification~~ — strap repaired (new band + firmware), first clean data Nov 16. Still needed: valid strap HR on a hard session (threshold / race).
+- Fueled long-run re-test: done Nov 16 (5.4%, confounded by race fatigue + wind) — repeat on fresh legs (see block plan).
+- Lab test Dec 15 → replace the estimated zones (threshold ~4:05–4:10/km, HR mid-to-high 160s) with measured LT1/LT2 pace + HR.
 
 ---
 
